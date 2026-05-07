@@ -41,5 +41,4 @@ The project focuses on:
 - Improves customer satisfaction
 - Supports targeted marketing strategies
 
-## Screenshots
-(Add your dashboard and RapidMiner screenshots here)
+
